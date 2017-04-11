@@ -41,6 +41,9 @@ public class BalanceNumber {
             di = 10 * di;
             left = num / di;
             while (left >= 10) {
+                if (left % 10 == 0) {
+
+                }
                 leftTotal = leftTotal * (left % 10);
                 left = left / 10;
             }
