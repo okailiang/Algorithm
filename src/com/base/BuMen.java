@@ -4,6 +4,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
+ * 打印部门，树形关系
+ *
  * @author oukailiang
  * @create 2017-10-11 下午7:52
  */
