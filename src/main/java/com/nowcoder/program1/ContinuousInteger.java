@@ -1,7 +1,5 @@
 package com.nowcoder.program1;
 
-import com.Timing;
-
 import java.util.Scanner;
 
 /**

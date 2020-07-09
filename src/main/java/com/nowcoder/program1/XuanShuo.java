@@ -2,9 +2,6 @@ package com.nowcoder.program1;
 
 import java.util.Scanner;
 
-
-import java.util.Scanner;
-
 /**
  * @author oukailiang
  * @create 2017-09-13 下午4:59

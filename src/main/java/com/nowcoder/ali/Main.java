@@ -1,6 +1,5 @@
 package com.nowcoder.ali;
 
-import java.lang.reflect.Array;
 import java.util.Scanner;
 
 public class Main {

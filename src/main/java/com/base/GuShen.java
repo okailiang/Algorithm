@@ -1,7 +1,5 @@
 package com.base;
 
-import com.util.IntUtils;
-
 import java.util.Scanner;
 
 /**
